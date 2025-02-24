@@ -4,13 +4,13 @@ Prediction of rice heading-date traits using lightgbm modeling
 ## System requirements
 Python 3.10 / 3.11.
 
-## Install Cropformer
+## Install Lightgbm
 
 ```bash
 conda env create -f lightgbm.yml
 ```
 
-## Run Cropformer
+## Run Lightgbm
 
 ```bash
 python Lightgbm.py
