@@ -1,5 +1,5 @@
 # Lightgbm
-Prediction of rice heading-date traits using lightgbm modeling
+Based on 10-fold cross validation, the performance of model for correlation prediction of rice heading date traits
 
 ## System requirements
 Python 3.10 / 3.11.
